@@ -14,8 +14,6 @@ class Solution {
             String s = strs[0].substring(0,i+1);
             for(int j = 0; j < strs.length; j++){
                 if(!s.equals(strs[j].substring(0,i+1))){
-                    System.out.println(s);
-                    System.out.println(strs[j].substring(0,i+1));
                     if(i == 0){
                         return "";
                     } else{
