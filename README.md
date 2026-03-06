@@ -36,4 +36,12 @@ You can check my progress and stats here:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/DariuszRozmus/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0290-word-pattern](https://github.com/DariuszRozmus/LeetCode/tree/main/0290-word-pattern/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0290-word-pattern](https://github.com/DariuszRozmus/LeetCode/tree/main/0290-word-pattern/) | Easy |
 <!---LeetCode Topics End-->
