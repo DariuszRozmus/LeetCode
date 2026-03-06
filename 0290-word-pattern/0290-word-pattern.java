@@ -19,9 +19,9 @@ class Solution {
                 if (!map.get(a).equals(sTable[i])){
                     return false;
                 }
-                if (mapTwo.get(sTable[i]) == null){
-                    return false;
-                }
+                // if (mapTwo.get(sTable[i]) == null){
+                //     return false;
+                // }
             }
         }
         return true;
