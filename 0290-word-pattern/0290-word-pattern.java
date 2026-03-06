@@ -19,7 +19,7 @@ class Solution {
                 if (!map.get(a).equals(sTable[i])){
                     return false;
                 }
-                if (map.get(sTable[i]) == null){
+                if (mapTwo.get(sTable[i]) == null){
                     return false;
                 }
             }
